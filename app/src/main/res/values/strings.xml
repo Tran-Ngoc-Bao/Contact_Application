@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">Contact Application</string>
+
+    <string-array name="idList">
+        <item>TH01</item>
+        <item>NU01</item>
+        <item>NO01</item>
+        <item>TH02</item>
+        <item>TH03</item>
+        <item>TH04</item>
+        <item>TH05</item>
+        <item>TH06</item>
+        <item>NU02</item>
+        <item>NU03</item>
+        <item>NU04</item>
+        <item>NO02</item>
+        <item>NO03</item>
+        <item>NO04</item>
+        <item>NO05</item>
+    </string-array>
+
+    <string-array name="nameList">
+        <item>Huyền Đức</item>
+        <item>Mạnh Đức</item>
+        <item>Trọng Mưu</item>
+        <item>Vân Trường</item>
+        <item>Dực Đức</item>
+        <item>Tử Long</item>
+        <item>Mạnh Khởi</item>
+        <item>Sĩ Nguyên</item>
+        <item>Trọng Đạt</item>
+        <item>Phụng Hiếu</item>
+        <item>Văn Viễn</item>
+        <item>Văn Đài</item>
+        <item>Công Cẩn</item>
+        <item>Tử Kính</item>
+        <item>Tử Minh</item>
+    </string-array>
+
+    <string-array name="phoneList">
+        <item>7824815054</item>
+        <item>7388966455</item>
+        <item>4605641041</item>
+        <item>7594866342</item>
+        <item>3580294624</item>
+        <item>3822066480</item>
+        <item>9522913200</item>
+        <item>4197888664</item>
+        <item>6076691895</item>
+        <item>5976792698</item>
+        <item>6147315991</item>
+        <item>6165117797</item>
+        <item>8153337557</item>
+        <item>1395562795</item>
+        <item>7311075879</item>
+    </string-array>
+
+    <string-array name="emailList">
+        <item>huyenduc@gmail.com</item>
+        <item>manhdat@gmail.com</item>
+        <item>trongmuu@gmail.com</item>
+        <item>vantruong@gmail.com</item>
+        <item>ducduc@gmail.com</item>
+        <item>tulong@gmail.com</item>
+        <item>manhkhoi@gmail.com</item>
+        <item>singuyen@gmail.com</item>
+        <item>trongdat@gmail.com</item>
+        <item>phunghieu@gmail.com</item>
+        <item>vanvien@gmail.com</item>
+        <item>vandai@gmail.com</item>
+        <item>congcan@gmail.com</item>
+        <item>tukinnh@gmail.com</item>
+        <item>tuminh@gmail.com</item>
+    </string-array>
+</resources>
