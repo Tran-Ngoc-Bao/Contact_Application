@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/add_person"
+    app:startDestination="@id/addPerson">
+
+    <fragment
+        android:id="@+id/addPerson"
+        android:name="com.example.contactapplication.AddPerson"
+        android:label="AddPerson" >
+        <action
+            android:id="@+id/action_addPerson_to_addPersonDetail"
+            app:destination="@id/addPersonDetail" />
+    </fragment>
+    <fragment
+        android:id="@+id/addPersonDetail"
+        android:name="com.example.contactapplication.AddPersonDetail"
+        android:label="AddPersonDetail" />
+</navigation>
